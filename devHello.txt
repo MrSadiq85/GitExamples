@@ -7,3 +7,7 @@ and this will be a simple fast forward merge
 
 ----------------------------------------------
 after this there will be one commit
+
+----------------------------------------------
+
+one more commit 
