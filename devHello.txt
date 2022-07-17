@@ -1,1 +1,4 @@
 we are in dev branch
+
+next step is to merge this branch into master
+and this will be a simple fast forward merge
