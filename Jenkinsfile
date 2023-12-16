@@ -17,7 +17,7 @@ pipeline {
                 echo 'Deploy App'
             }
         }
-    }-
+    }
     post {
             always{
                 emailext body: 'SUCESS.', subject: 'Pipeline status', to: 'lookingfor7lpa@gmail.com'
